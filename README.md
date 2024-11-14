@@ -2,7 +2,7 @@
   
 - 👀 I’m interested in ML, Data Analysis,  and Web development.
   
-- 🌱 I’m currently learning MySql, web development with django, and TinyML.
+- 🌱 I’m currently learning MySql, Excell and PowerBI for Data Analysis.
 
 
 <!---
