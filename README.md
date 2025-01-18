@@ -1,4 +1,5 @@
 Hi there! 👋 I'm Walkao Adamou
+
 Welcome to my GitHub profile! I'm a passionate Data Analyst who loves uncovering insights from data and using them to solve problems. Here, you'll find a collection of my projects, tools, and learning journey in the world of data.
 
 🛠️ Skills & Tools
