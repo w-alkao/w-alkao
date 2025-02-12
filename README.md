@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst who loves uncovering
 📫 Let's Connect!
 I'm always open to discussing data, analytics, and opportunities. Feel free to reach out!
 
-   linkedin.com/in/walkao-adamou-66973a278
+
 
 <!---
 w-alkao/w-alkao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
