@@ -15,7 +15,7 @@ I specialize in transforming messy datasets into clean, structured, and usable d
 ---
 
 ### 🛠 Tools & Technologies
-SQL • Python • Power BI • Excel • PostgreSQL  
+SQL • Python • Power BI • Excel • PostgreSQL • MySQL • SQLServer  
 
 ---
 
