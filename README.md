@@ -7,7 +7,7 @@ I specialize in transforming messy datasets into clean, structured, and usable d
 ---
 
 ## My Projects
-- ![SQL Projects](/sql/projects/)
+- ![SQL Projects](sql/projects/)
 
 ---
 
