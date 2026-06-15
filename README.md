@@ -7,10 +7,10 @@ I specialize in transforming messy datasets into clean, structured, and usable d
 ---
 
 ## My Projects
-- *[SQL Projects - 03](https://github.com/w-alkao/sql/tree/main/projects)
-- *[Excel Projects - 02](https://github.com/w-alkao/excel/tree/main/projects)
-- *[Power BI Projects - 01](https://github.com/w-alkao/power_bi/tree/main/projects/data_jobs_salaries)
-- *4*.[Python Projects](https://github.com/w-alkao/python-for-analysis)
+- [SQL Projects - 03](https://github.com/w-alkao/sql/tree/main/projects)
+- [Excel Projects - 02](https://github.com/w-alkao/excel/tree/main/projects)
+- [Power BI Projects - 01](https://github.com/w-alkao/power_bi/tree/main/projects/data_jobs_salaries)
+- [Python Projects](https://github.com/w-alkao/python-for-analysis)
 
 ---
 
