@@ -19,6 +19,7 @@ I specialize in transforming messy datasets into clean, structured, and usable d
 ✔ ETL Pipeline Development  
 ✔ Database Management  
 ✔ Data Governance  
+✔ Data Analysis and Visualization
 
 ---
 
