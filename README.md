@@ -36,4 +36,3 @@ SQL • Python • Power BI • Excel • PostgreSQL • MySQL • SQLServer
 ---
 
 ### 📬 Let's Connect
-Email: walk.adamou@gmail.com
