@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Adamou Walkao
 
-💼 Data Analyst & Data Manager | 📊 Data Quality Enthusiast | ⚙️ ETL Builder  
+💼 Data Analyst & Data Manager | 📊 Data Quality Enthusiast | ⚙️ ETL Builder | Data Driven Solution
 
 I specialize in transforming messy datasets into clean, structured, and usable data systems.
 
