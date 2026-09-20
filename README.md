@@ -9,7 +9,7 @@ I specialize in transforming messy datasets into clean, structured, and usable d
 ## My Projects
 - [SQL Projects](https://github.com/w-alkao/sql/tree/main/projects)
 - [Excel Projects](https://github.com/w-alkao/excel/tree/main/projects)
-- [Power BI Projects](https://github.com/w-alkao/power_bi/tree/main/projects/data_jobs_salaries)
+- [Power BI Projects](https://github.com/w-alkao/power_bi/tree/main/projects/)
 - [Python Projects](https://github.com/w-alkao/python-for-analysis/tree/main/projects)
 
 ---
