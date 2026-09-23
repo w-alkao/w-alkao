@@ -11,7 +11,8 @@ I specialize in transforming messy datasets into clean, structured, and usable d
 - [Excel Projects](https://github.com/w-alkao/excel/tree/main/projects)
 - [Power BI Projects](https://github.com/w-alkao/power_bi/tree/main/projects/)
 - [Python Projects](https://github.com/w-alkao/python-for-analysis/tree/main/projects)
-
+  
+```
 w-alkao
 │
 ├── sql
@@ -43,6 +44,7 @@ w-alkao
         ├── README.md
         ├── bank_fraud_prediction
         └── tomato_leaf_disease
+```
 
 ---
 
