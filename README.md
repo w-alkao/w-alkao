@@ -113,9 +113,11 @@ Python projects covering data analysis, machine learning, predictive modeling, a
 ## 🛠️ Tools & Technologies
 
 **Languages & Querying**
+
 SQL • Python
 
 **Databases**
+
 SQL Server • PostgreSQL • MySQL
 
 **Business Intelligence & Analytics**
