@@ -121,12 +121,15 @@ SQL • Python
 SQL Server • PostgreSQL • MySQL
 
 **Business Intelligence & Analytics**
+
 Power BI • Excel • DAX
 
 **Data Engineering**
+
 ETL • Data Warehousing • Data Modeling • Data Quality
 
 **Machine Learning**
+
 Scikit-learn • TensorFlow • Keras
 
 ---
